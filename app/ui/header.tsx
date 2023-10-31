@@ -44,6 +44,7 @@ export function Header({
           GitHub
         </HeaderLink>
         <HeaderLink to="/showcase">Showcase</HeaderLink>
+        <HeaderLink to="/playground">Playground</HeaderLink>
       </nav>
     </header>
   );

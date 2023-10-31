@@ -20,6 +20,7 @@
   "dependencies": {
     "@docsearch/css": "^3.5.2",
     "@docsearch/react": "^3.5.2",
+    "@monaco-editor/react": "^4.6.0",
     "@remix-run/express": "^2.1.0",
     "@remix-run/node": "^2.1.0",
     "@remix-run/react": "^2.1.0",
@@ -27,6 +28,7 @@
     "@remix-run/v1-meta": "0.1.3",
     "@remix-run/v1-route-convention": "^0.1.4",
     "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@webcontainer/api": "^1.1.8",
     "cheerio": "^1.0.0-rc.12",
     "clsx": "^1.2.1",
     "compression": "^1.7.4",
